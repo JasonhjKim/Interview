@@ -1,6 +1,6 @@
 # Interview Studies
 My interview studies
-#### Data Structure
+### Data Structure
 [x] Array
 [x] Stack
 [x] Queue
@@ -13,22 +13,24 @@ My interview studies
 [ ] Binary Search Tree
 [ ] Tree
 [ ] Trie
-#### Sorting Algorithm
+
+### Sorting Algorithm
 [x] Bubble Sort
 [x] Insertion Sort
 [x] Selection Sort
 [ ] Merge Sort
 [ ] Quick Sort
-#### Searching Algorithm
+
+### Searching Algorithm
 [x] Linear Search
 [x] Binary Search
-#### JavaScript Questions
 
-#### CSS Questions
+### JavaScript Questions
 
-#### HTML Questions
+### CSS Questions
 
-#### Testing Questions
+### HTML Questions
 
-#### Development Methodologies
+### Testing Questions
 
+### Development Methodologies
