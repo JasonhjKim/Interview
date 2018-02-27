@@ -30,8 +30,27 @@ function isEven(number) {
     }
     
 }
+function fibanocci_sequence(n) {
+    if (n === 1) {
+        return 1;
+    }
+    if (n === 0) {
+        return 0;
+    }
+    return n + fibanocci_sequence(n-1);
+}
 
-console.log(isEven(278l));
+function bunnyEars(n) {
+    if (n === 0) {
+        return 0;
+    }
+    var current = n % 2 === 0 ? 2 : 3;
+    return current + bunnyEars(n - 1)
+}
+
+console.log(bunnyEars(10));
+console.log(fibanocci_sequence(10))
+console.log(isEven(278));
 
 console.log(factorial(6));
 console.log(4 % 12);

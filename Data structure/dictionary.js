@@ -66,10 +66,11 @@ dic.set(1, "one");
 dic.set(2, "two");
 dic.set(3, "three");
 dic.set(4, "four");
-
 dic.print();
 dic.remove(3);
 dic.print();
-
 console.log(dic.values());
-
+let array = [1, 2, 3, 4, 5, 6, 7, 8,9]
+array = array.splice(0, 2);
+console.log("==========================");
+console.log(array);
