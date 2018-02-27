@@ -9,8 +9,8 @@ My interview studies
 - [ ] Doubly-Linked-List
 - [x] Dictionary
 - [x] Hash Table
-- [ ] Graph
-- [ ] Binary Search Tree
+- [x] Graph
+- [x] Binary Search Tree
 - [ ] Tree
 - [ ] Trie
 
@@ -20,10 +20,20 @@ My interview studies
 - [x] Selection Sort
 - [ ] Merge Sort
 - [ ] Quick Sort
+- [ ] Heap Sort
 
 ### Searching Algorithm
 - [x] Linear Search
 - [x] Binary Search
+
+### Programming Questions
+- [ ] String
+- [ ] Array
+- [ ] Dictionary & Map
+- [ ] Linked-List
+- [ ] Queue & Stack
+- [ ] Graph & Tree
+- [ ] Bit Manipulation
 
 ### JavaScript Questions
 
