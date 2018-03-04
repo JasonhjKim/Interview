@@ -64,30 +64,7 @@ class MyLinkedList {
             cur = cur.next;
         }
     }
-
-    // insert(position, data) {
-    //     const cur = head;
-    //     var index = 0;
-
-    //     if (positon > this.size + 2) {
-    //         return null;
-    //     }
-
-    //     while(cur) {
-    //         if (index === position) {
-    //             if (position === 0) {
-    //                 var temphead = this.head;
-    //                 this.head = new Node(data);
-    //                 this.head.next = temphead;
-    //             }
-    //             if (position === size - 1) {
-    //                 tail
-    //             }
-    //         }
-    //         index++;
-    //     }
-    // }
-
+    
     length() {
         return this.size
     }

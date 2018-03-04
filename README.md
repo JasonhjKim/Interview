@@ -6,7 +6,7 @@ My interview studies
 - [x] Queue
 - [x] Set
 - [x] Linked-List
-- [ ] Doubly-Linked-List
+- [x] Doubly-Linked-List
 - [x] Dictionary
 - [x] Hash Table
 - [x] Graph
@@ -18,8 +18,8 @@ My interview studies
 - [x] Bubble Sort
 - [x] Insertion Sort
 - [x] Selection Sort
-- [ ] Merge Sort
-- [ ] Quick Sort
+- [x] Merge Sort
+- [x] Quick Sort
 - [ ] Heap Sort
 
 ### Searching Algorithm
